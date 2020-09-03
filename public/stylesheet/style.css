@@ -1,0 +1,9 @@
+body {
+  background-image: url(../images/photo-1580519542036-c47de6196ba5.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+strong {
+  color: rgb(156, 21, 21);
+}
